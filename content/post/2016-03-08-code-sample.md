@@ -3,6 +3,8 @@ title: Code Sample
 subtitle: Using Hugo or Pygments
 date: 2016-03-08
 tags: ["example", "code"]
+_build:
+  list: never
 ---
 
 The following are two code samples using syntax highlighting.

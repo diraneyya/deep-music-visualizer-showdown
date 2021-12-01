@@ -2,6 +2,8 @@
 title: To be
 subtitle: ... or not to be?
 date: 2015-02-13
+_build:
+  list: never
 ---
 
 To be, or not to be--that is the question:

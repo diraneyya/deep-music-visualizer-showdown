@@ -2,7 +2,7 @@ baseurl = "https://rwth-crmasters-wise2122.gitlab.io/deep-music-visuaizer-showdo
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "Deep Music Visualizer Showdown"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "A showdown of all the music visualizations created by DSSIPD students in WiSe 2021/20211"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
