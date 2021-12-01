@@ -13,7 +13,7 @@ I made this video, I was inspired by one of my childhood favorite songs _Dessert
 
 I tried different things, the tempo command seems to help me achieve what I wanted to achieve because of this and that.
 
-### Competition Entry 1
+### Competition Entry
 
 ```bash
    python `visualize.py` --song `song file` --batch_size 4 --duration 60 \
