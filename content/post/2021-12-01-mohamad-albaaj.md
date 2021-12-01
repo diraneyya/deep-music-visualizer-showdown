@@ -6,13 +6,13 @@ tags: ["music-visualizer", "competition"]
 ---
 This is mohamad's entry for the competition.
 
-I made two videos, I was inspired by the type of music I heard in the _Soulfully Yours_ parties in Holland.
+I made a video, I was inspired by the type of music I heard in the lo ala albi accoustic version.
 
 ## Command Variations
 
 I tried different things, the tempo command seems to help me achieve what I wanted to achieve because of this and that.
 
-### Competition Entry 1
+### Competition Entry
 
 ```bash
    python `visualize.py` --song `song file` --batch_size 4
