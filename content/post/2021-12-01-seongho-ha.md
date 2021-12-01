@@ -1,6 +1,6 @@
 ---
 title: Seongho's Visualization
-subtitle: Inspired by my Dutch party visitations in Sittard
+subtitle: Inspired by a look at National Geographic.
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
@@ -8,11 +8,11 @@ tags: ["music-visualizer", "competition"]
 
 This is Seongho's entry for the competition.
 
-I made two videos, I was inspired by the type of music I heard in the _Soulfully Yours_ parties in Holland.
+I made two videos, I was inspired by a look at National Geographic.
 
 ## Command Variations
 
-I tried different things, the tempo command seems to help me achieve what I wanted to achieve because of this and that.
+I tried various things, tested various options, and got results.
 
 ### Competition Entry 1
 
