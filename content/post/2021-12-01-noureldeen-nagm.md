@@ -14,7 +14,7 @@ I tried different things, the tempo command seems to help me achieve what I want
 
 ### Competition Entry 1
 
-(deep-music-visualizer-gpu) C:\Users\nnagm>python C:\Users\nnagm\Repos\deep-music-visualizer\visualize.py --song "C:\Users\nnagm\Repos\deep-music-visualizer\Marie Plassard  -The Look (Q o d ë s Remix).wav" --resolution 512 --duration 258 --pitch_sensitivity 295 --tempo_sensitivity 0.8 --depth 0.5 --classes 983 980 978 966 954 928 919 889 879 857 288 107 --jitter 0.5 --frame_length 512 --truncation 0.5 --smooth_factor 20 --batch_size 4 --output_file my_movie.mp4
+(deep-music-visualizer-gpu) c:\Users\nnagm>python C:\Users\nnagm\Repos\deep-music-visualizer\visualize.py --song "C:\Users\nnagm\Repos\deep-music-visualizer\Marie Plassard  -The Look (Q o d ë s Remix).wav" --resolution 512 --duration 258 --pitch_sensitivity 295 --tempo_sensitivity 0.8 --depth 0.5 --classes 983 980 978 966 954 928 919 889 879 857 288 107 --jitter 0.5 --frame_length 512 --truncation 0.5 --smooth_factor 20 --batch_size 4 --output_file my_movie.mp4
 
 {{<video "Noureldeen">}}
 
