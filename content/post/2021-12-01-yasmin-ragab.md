@@ -1,6 +1,6 @@
 ---
 title: Yasmin's Visualization
-subtitle: Inspired by my Special dates and childhood fav song
+subtitle: Inspired by my Special dates and childhood favorite song
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
