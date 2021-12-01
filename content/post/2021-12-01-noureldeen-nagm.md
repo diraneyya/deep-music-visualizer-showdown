@@ -22,7 +22,7 @@ I played with the variables to test different outputs, I had to increase the smo
    --output_file `video file`
 ```
 
-{{<video "Noureldeen">}}
+{{<video "noureldeen">}}
 
 
 
