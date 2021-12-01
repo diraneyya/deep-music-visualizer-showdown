@@ -1,7 +1,5 @@
 ## Front Page Content
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+This website was setup in under 30 minutes using the HUGO project template on GitLab.
+
+The website provides a showdown of all the visualizations created by the DSSIPD WiSe 2021/2022 students in the CR-Masters program in the RWTH Aachen university.
