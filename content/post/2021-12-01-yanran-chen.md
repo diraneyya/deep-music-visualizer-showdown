@@ -1,6 +1,6 @@
 ---
 title: Yanran's Visualization
-subtitle: Inspired by my Dutch party visitations in Sittard
+subtitle: Inspired by an Opera in Shanghai
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
