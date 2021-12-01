@@ -1,6 +1,6 @@
 ---
 title: Ding's Visualization
-subtitle: Inspired by my Dutch party visitations in Sittard
+subtitle: Inspired by my piano
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
