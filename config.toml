@@ -1,4 +1,4 @@
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://rwth-crmasters-wise2122.gitlab.io/deep-music-visuaizer-showdown/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
