@@ -16,7 +16,7 @@ I tried different things, the tempo command seems to help me achieve what I want
 
 ```bash
    python `visualize.py` --song `song file` --batch_size 4
-   --classes 847 483 668 724 652 413 269 403 319 353 603 354 \
+   --classes 14 34 873 221 993 74 155 483 7 312 75 738 \
    --output_file `video file`
 ```
 
