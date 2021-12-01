@@ -1,4 +1,4 @@
-## Front Page Content
+## What is this all about
 
 This website was setup in under 30 minutes using the HUGO project template on GitLab.
 

@@ -2,7 +2,8 @@
 
 Using a Static-Site-Generation tool named _HUGO_ and a repository made up of markdown files, images/videos and HTML templates.
 
-Below is a diagram of what happens each time we change the repository:
+Below is a diagram of what happens each time we change the repository:  
+
 ![HUGO Diagram](./docs/HUGO_big_picture.plain.svg)
 
 In any development team, you have to be on the same page with other developers in the team with regard to:
