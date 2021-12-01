@@ -1,6 +1,6 @@
 ---
 title: Yasmin's Visualization
-subtitle: Inspired by my Special dates and childhood fav. song
+subtitle: Inspired by my Special dates and childhood fav song
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
@@ -11,7 +11,7 @@ I made this video, I was inspired by one of my childhood favorite songs _Dessert
 
 ## Command Variations
 
-I tried different things, the tempo command seems to help me achieve what I wanted to achieve because of this and that.
+I tried different things, I run out of memory and i tried to change the batch size to get it work.
 
 ### Competition Entry
 
