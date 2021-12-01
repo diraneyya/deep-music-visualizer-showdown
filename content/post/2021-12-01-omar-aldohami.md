@@ -1,6 +1,6 @@
 ---
 title: Omar's Visualization
-subtitle: Inspired by Hani Shnouda
+subtitle: Inspired by Hani Shnoudaa
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
 ---
