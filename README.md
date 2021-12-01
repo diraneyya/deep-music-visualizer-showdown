@@ -49,3 +49,10 @@ After creating your own branch (following the guidelines above). Follow these st
 3. Use the `preview_website.bat` batch file to ensure that the two changes above result in adding your competition entry to the showdown website.
 4. Commit the changes above to **your own created branch** and push the chages to the remote.
 5. Go to [GitLab.com](https://gitlab.com/rwth-crmasters-wise2122/deep-music-visualizer-showdown) and create a merge request (please follow the merge-requet guidelines above).
+
+## References
+
+- [Deep Music Visualizer](https://github.com/msieg/deep-music-visualizer): Is a repository on GitHub that we use in this project to generate music visualizations from a music file and a list of image classes from a public dataset.
+- [HUGO](https://gohugo.io/): Is a computer program that generates a website from a set of `.md` files containing the content, which are formatted using a number of `.html` _Go_ templates.
+- [GitLabs CI/CD](https://docs.gitlab.com/ee/ci/yaml/): Is a DevOps system where pushes to GitLab repository triggers a computer script that can then generate something useful, in this case a website.
+- [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/): Is the part of GitLab where GitLab CI/CD generates a website and GitLab provides a URL where this DevOps-generated website can be served.
