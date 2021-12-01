@@ -5,6 +5,7 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 test:
+  allow_failure: true
   script:
   - hugo
   except:
