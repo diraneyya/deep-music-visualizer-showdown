@@ -16,7 +16,7 @@ In any development team, you have to be on the same page with other developers i
 
 In the session on the 1st of December, 2021 of the DSSIPD course, **we did not have clear policies.** This resulted in a lot of inconsistency which would make managing the development difficult, and hence would be unacceptable in a professional environment.
 
-Hence, when joining a new development team, even if you are a consultant, a content creator, or a manager, it is important to ask how things are expected to be done to maximize the impact of your contributions an to minimize friction with coworkers and line managers.
+Hence, when joining a new development team, even if you are a consultant, a content creator, or a manager, it is important to ask how things are expected to be done to maximize the impact of your contributions and to minimize friction with coworkers and line managers.
 
 ## Contribution Guidelines to this Repo
 
@@ -43,7 +43,7 @@ After creating your own branch (following the guidelines above). Follow these st
     1. The file is not there, because you did not submit on time. In this case, you will have to commit your video file to `./content/video` (please follow the naming guidelines above). The stem of this filename (without the extension) is assume to be `video` in step 2 below.
 2. After you identified the video, this is the time to add **a new `.md` file** in the `./content/post` directory of the repo (please follow the naming guidelines above). In this file, please use the contents of `2021-12-01-orwa-diraneyya.md` as a template while changing this line:
     ```
-    {{<video "...">}
+    {{<video "...">}}
     ``` 
     to include the video filename stem `video` where the three dots `...` are (without the extension).
 3. Use the `preview_website.bat` batch file to ensure that the two changes above result in adding your competition entry to the showdown website.
