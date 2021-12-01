@@ -8,10 +8,7 @@ tags: ["music-visualizer", "competition"]
 ### Competition Entry 1
 
 ```bash
-   python `visualize.py` --song `song file` --batch_size 3 --duration 25 \
-   --resolution 256 --pitch_sensitivity 290 --jitter 1 \
-   --classes 847 483 668 724 652 413 269 403 319 353 603 354 \
-   --output_file `video file`
+   python visualize.py --song celebration.wav --resolution 128 --duration 33 --pitch_sensitivity 270 --depth 0.5 --num_classes 4 --classes 545 546 547 556 --jitter 0.2 --truncation 0.4 --smooth_factor 11 --output_file assignment01_Leao_429865.mp4
 ```
 
 {{<video "filipe">}}
