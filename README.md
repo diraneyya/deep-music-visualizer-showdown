@@ -28,6 +28,10 @@ In order to mitigate the problems above and to help you grow professionally, we 
 1. **Branch names:**
     1. For branches adding a new competition entry: use _"competition-`first`-`last`"_ to indicate that it is a branch designating a competition entry and that it belongs to you.
     1. For branches fixing an issue: use _"bugfix-issue-`number`"_ where `number` is the issue number.
+    1. For other types of improvements after your requirements are met: use _"feature-(`first`|`last`)-`...`"_ where the part _(`A`|`B`)_ means either `A` or `B` and the three dots `...` stand for anything you want assuming it is:
+        1. All in small caps
+        1. Uses dashes in-between the words
+        1. No special characters
 1. **Merge request:** please mark the merge request as a draft until you are sure that it runs correctly (using the *preview_website* batch file ran locally) and that all the changes you have made locally are already pushed to your branch on the remote. The title for the merge request should be:
     1. "Competition entry for `first` `last`" in case of requesting a merge of a competition entry
     1. "Bugfix for issue #`number`" in case of requetsing a merge of a requested change (using the _issues_ feature in GitLab)
