@@ -1,5 +1,5 @@
 ---
-title: emad's Visualization
+title: Emad's Visualization
 subtitle: Inspired from the national anthem of the ottoman Empire.
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
