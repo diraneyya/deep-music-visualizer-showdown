@@ -1,3 +1,8 @@
+Each time the main branch (i.e. the `master` branch) on this repo changes, the following website changes in response to that change:
+https://rwth-crmasters-wise2122.gitlab.io/deep-music-visualizer-showdown/
+
+The process responsible of this is called DevOps and is described in the file named `.gitlab-ci.yml` at the root of this repo.
+
 # An Example of a Website Development Process
 
 Using a Static-Site-Generation tool named _HUGO_ and a repository made up of markdown files, images/videos and HTML templates.
