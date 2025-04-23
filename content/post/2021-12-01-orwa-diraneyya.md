@@ -3,6 +3,7 @@ title: Orwa's Visualization
 subtitle: Inspired by my Dutch party visitations in Sittard
 date: 2021-12-01
 tags: ["music-visualizer", "competition"]
+summary: ""
 ---
 
 This is Orwa's entry for the competition.

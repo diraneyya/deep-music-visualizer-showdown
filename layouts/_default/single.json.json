@@ -1,0 +1,4 @@
+{{ .RelPermalink }} > /that-page/
+{{ with  .OutputFormats.Get "json" -}}
+{{ .RelPermalink }} > /that-page/index.json
+{{- end }}
